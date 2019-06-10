@@ -5,6 +5,7 @@ This is a simple website project for demonstrating how to use Git and Github tog
 ## Introduction
 
 Some intro text here.
+blah blah blah
 
 ## Purpose
 
