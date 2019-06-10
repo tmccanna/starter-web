@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Terran McCanna - PINES Program Manager - tmccanna@georgialibraries.org
 
 # THANKS
 
