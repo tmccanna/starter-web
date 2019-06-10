@@ -12,6 +12,8 @@ The purpose of this exercise is to test comparing files.
 
 ## Deployment
 
+Some steps should probably go here.
+
 ## How to Contribute
 
 For this repo and issue pull requests for review.
