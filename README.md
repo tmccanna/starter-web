@@ -14,6 +14,8 @@ The purpose of this exercise is to test comparing files.
 
 ## How to Contribute
 
+For this repo and issue pull requests for review.
+
 ### Copyright
 
 2019 Git.Training.
