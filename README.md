@@ -13,3 +13,7 @@ The purpose of this exercise is to test comparing files.
 ## Deployment
 
 ## How to Contribute
+
+### Copyright
+
+2019 Git.Training.
