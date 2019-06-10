@@ -21,4 +21,4 @@ For this repo and issue pull requests for review.
 
 ### Copyright
 
-2019 Git.Training.
+2019 All Rights Reserved.
