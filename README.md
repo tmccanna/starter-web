@@ -4,7 +4,11 @@ This is a simple website project for demonstrating how to use Git and Github tog
 
 ## Introduction
 
+Some intro text here.
+
 ## Purpose
+
+The purpose of this exercise is to test comparing files.
 
 ## Deployment
 
